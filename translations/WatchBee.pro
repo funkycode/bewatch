@@ -1,0 +1,1 @@
+include (../WatchBee.pro)
